@@ -15,8 +15,8 @@ This site is the official site for KDD 2023 tutorial on Trustworthy Machine Lear
 2. **Robust machine learning** (Jindong Wang, 40min)  [[Slides](./Overview_and_robustness.pdf)]
     - Adversarial robustness (basics, emerging topics in adv. robustness, Transformer robustness)
     - Semi-supervised learning (basics, advanced algorithms, applications)
-4. **OOD generalizaiton** (Haohan Wang, 40min)
-5. **Interpretability** (Haohan Wang, 40min)
+4. **OOD generalizaiton** (Haohan Wang, 40min) [[Slides](./generalization.pdf)]
+5. **Interpretability** (Haohan Wang, 40min)  [[Slides](./interpretability.pdf)]
 6. **Trustworthiness in the era of large models** (Jindong Wang, 40min)  [[Slides](./Trustworthiness_large_models.pdf)]
      - Evaluation
      - Enhancement
